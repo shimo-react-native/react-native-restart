@@ -1,6 +1,6 @@
 {
-  "name": "react-native-restart",
-  "version": "0.0.7",
+  "name": "@shimo/react-native-restart",
+  "version": "0.0.7-shimo.1",
   "description": "React Native Restart Component",
   "main": "index",
   "scripts": {
@@ -22,5 +22,8 @@
   },
   "author": "Avishay Bar <http://www.geektime.co.il>",
   "license": "MIT",
-  "homepage": "https://github.com/shimo-react-native/react-native-restart"
+  "homepage": "https://github.com/shimo-react-native/react-native-restart",
+  "publishConfig": {
+    "registry": "http://registry.npm.shimo.run/"
+  }
 }
